@@ -1,7 +1,6 @@
-# AshuM Real Estate (Next.js 15 + TypeScript)
+# Ashutosh Property Real Estate (Next.js 15 + TypeScript)
 
-Broker portfolio for Ashutosh Maury, East Prayagraj. UI modelled on the Northwall template
-(black / light-grey alternating sections, pinned scroll process, minimal nav, underline form).
+Ashutosh, East Prayagraj.
 
 ## Run
 ```bash
